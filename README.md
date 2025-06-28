@@ -27,8 +27,7 @@
 
 Vocab-Vault
 
-##  index.html 
- Main HTML structure
+##  index.html  ** Main HTML structure
 
 ##  style.css
 All custom styling
