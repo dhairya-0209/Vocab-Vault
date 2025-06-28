@@ -27,27 +27,27 @@
 
 Vocab-Vault
 
-index.html -> Main HTML structure
+- index.html -> Main HTML structure
 
-style.css -> All custom styling
+- style.css -> All custom styling
 
-script.js -> JavaScript functionality and API calls
+- script.js -> JavaScript functionality and API calls
 
 ---
 
 ## 💡 How to Use
 
-1. Clone the repository:
+## 1. Clone the repository:
 
 git clone https://github.com/dhairya-0209/Vocab-Vault.git
    
-2.Open the project folder:
+## 2.Open the project folder:
 
 cd VocabVault
 
-3.Open index.html in your browser.
+## 3.Open index.html in your browser.
 
-4.Type a word in the input box and hit Search to see the definition 
+## 4.Type a word in the input box and hit Search to see the definition. 
 
 ---
 
