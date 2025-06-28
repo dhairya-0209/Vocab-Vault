@@ -27,17 +27,14 @@
 
 Vocab-Vault
 
-## - index.html 
+##  index.html 
+ Main HTML structure
 
-  Main HTML structure
+##  style.css
+All custom styling
 
-## - style.css
-
-   All custom styling
-
-## - script.js
-
-  JavaScript functionality and API calls
+##  script.js
+JavaScript functionality and API calls
 
 ---
 
