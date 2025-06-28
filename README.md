@@ -28,7 +28,9 @@
 Vocab-Vault
 
 index.html -> Main HTML structure
+
 style.css -> All custom styling
+
 script.js -> JavaScript functionality and API calls
 
 ---
