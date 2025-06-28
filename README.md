@@ -19,7 +19,7 @@
 - **HTML** – Markup and structure  
 - **CSS** – Styling and responsive design  
 - **JavaScript** – DOM manipulation and API integration  
-- **REST API** – Fetching dictionary data from `https://api.dictionaryapi.dev/`
+- **REST API** – Fetching dictionary data 
 
 ---
 
@@ -38,7 +38,7 @@ Vocab-Vault
 ## 💡 How to Use
 
 1. Clone the repository:
-   
+
 git clone https://github.com/dhairya-0209/Vocab-Vault.git
    
 2.Open the project folder:
