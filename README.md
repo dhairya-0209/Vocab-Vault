@@ -37,17 +37,33 @@ Vocab-Vault
 
 ## 💡 How to Use
 
-## 1. Clone the repository:
+## 1.Clone the Repository
 
-git clone https://github.com/dhairya-0209/Vocab-Vault.git
-   
-## 2.Open the project folder:
+First, download the project to your local system:
+
+git clone https://github.com/dhairya-0209/VocabVault.git
+
+## 2.Navigate to the Project Folder
 
 cd VocabVault
 
-## 3.Open index.html in your browser.
+## 3.Open the App in Your Browser
 
-## 4.Type a word in the input box and hit Search to see the definition. 
+- Simply double-click the index.html file, or open it manually in any modern browser like Chrome, Firefox, or Edge.
+
+- Search for a Word
+
+- You'll see a clean input box on the page.
+
+- Type any English word you want to look up.
+
+- Click the Search button or press Enter.
+
+- View Results Instantly
+
+- The app will fetch and display the definitions, example, synonym and Antonyms.
+
+- If the word is not found, a friendly message will be shown.
 
 ---
 
